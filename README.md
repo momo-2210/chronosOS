@@ -1,1 +1,1 @@
-# chronous-os
+# chronosOS
