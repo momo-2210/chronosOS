@@ -22,4 +22,9 @@ int chronos_blockio_queue_length(void);
 int chronos_blockio_init(void);
 void chronos_blockio_exit(void);
 
+  int chronos_syscall_init(void);
+  void chronos_syscall_exit(void);
+  int chronos_sched_init(void);
+  void chronos_sched_exit(void);
+
 #endif
