@@ -1,0 +1,2 @@
+syscall_hits: 1104
+sched_ticks: 59
